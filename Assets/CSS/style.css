@@ -217,6 +217,12 @@ h2#details-name {
   text-transform: capitalize;
 }
 
+div button {
+  display: flex;
+  width: 75%;
+  justify-content: flex-end;
+}
+
 button {
   font-size: 1.5vw;
   width: 7vw;
