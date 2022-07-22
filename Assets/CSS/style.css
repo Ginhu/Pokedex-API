@@ -217,10 +217,11 @@ h2#details-name {
   text-transform: capitalize;
 }
 
-div button {
+#div-button {
   display: flex;
   width: 75%;
   justify-content: flex-end;
+  margin: 0 12.5% 0.8vw 12.5%;
 }
 
 button {
